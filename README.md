@@ -85,7 +85,7 @@ Authorization: Bearer <access_token>
 Main models:
 
 * **User** → owns patients
-* **Patient** → belongs to a user
+* **Patient** → belongs to a user.
 * **Doctor**
 * **PatientDoctorMapping** → many-to-many relationship
 
