@@ -4,8 +4,7 @@ A RESTful backend service for managing **patients, doctors, and their relationsh
 
 This project simulates the backend of a real healthcare platform where authenticated users can register, maintain patient records, assign doctors, and manage medical associations securely.
 
----
-
+--
 ## Why I Built This
 
 I wanted to understand how real production backends work — not just CRUD pages, but:
